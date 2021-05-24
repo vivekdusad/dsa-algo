@@ -1,0 +1,33 @@
+[
+
+{
+"id": "1",
+"name": "name 1",
+"image": "http://lorempixel.com/640/480/nightlife"
+},
+{
+"id": "2",
+"name": "name 2",
+"image": "http://lorempixel.com/640/480/nightlife"
+},
+{
+"id": "3",
+"name": "name 3",
+"image": "http://lorempixel.com/640/480/abstract"
+},
+{
+"id": "4",
+"name": "name 4",
+"image": "http://lorempixel.com/640/480/sports"
+},
+{
+"id": "5",
+"name": "name 5",
+"image": "http://lorempixel.com/640/480/people"
+},
+{
+"id": "6",
+"name": "name 6",
+"image": "http://lorempixel.com/640/480/sports"
+}
+]
